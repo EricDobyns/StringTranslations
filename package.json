@@ -12,6 +12,6 @@
 	"author": "Eric Dobyns <ericdobyns@gmail.com>",
 	"license": "UNLICENSED",
 	"devDependencies": {
-		"xlsx": "^0.15.5"
+		"xlsx": "^0.17.0"
 	}
 }
